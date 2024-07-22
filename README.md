@@ -2,8 +2,6 @@
   <h1 align="center"><img src="https://github.com/AmJoy01/amjoy01/assets/93353341/7d6838aa-33a7-4656-829b-7dea8999bd7c" width="100"/> Hey there! I'm Amber Lewis</h1>
 
 
-![Profile views](https://komarev.com/ghpvc/?username=amjoy01&color=brightgreen)
-
 -----
 
 A Computer Science student at Lehman College with a passion for coding and keen interest in full stack development and video game programming.
